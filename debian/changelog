@@ -1,0 +1,6 @@
+amf-headers (1.4.18) unstable; urgency=medium
+
+  * Initial Release.
+  * Added Pre-Encode filter within Pre-Processing component
+
+ -- Hirotaka Takase <hsrmy@emradc.xyz>  Sun, 17 Jan 2021 02:23:47 +0900
