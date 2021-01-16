@@ -1,0 +1,2 @@
+amf/public/include/components/*.h usr/include/AMF/components
+amf/public/include/core/*.h usr/include/AMF/core
